@@ -1,0 +1,10 @@
+.contenedor{
+    width: 50%;
+    height: 100%;
+    border: 1px solid crimson;
+    overflow:scroll;
+}
+
+h1{
+    color: rgb(222, 140, 33);
+}

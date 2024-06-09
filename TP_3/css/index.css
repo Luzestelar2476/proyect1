@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    font-size:40px;
+    color:#8b0434;
+}
+
+h2{    
+    font-family: "Poetsen One", sans-serif;
+    color:#5055b5;
+
+}
+
+h3{
+    font-family: "Poetsen One", sans-serif;
+    color:#2499b9;  
+}
+
+body{
+    background-color:rgb(221, 165, 194) ;
+
+}
+
+p{
+    font-size: 18px;
+}
+
+div{
+    margin-left: 120px;
+}
+/*clases*/
+
+.practicando{
+    color:#6f2774;  
+}
+
+.practicando2{
+    color:#c027cb;   
+}
+
+.img1{
+    margin-left:200px; 
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.img2{
+    height: 250px; 
+    width: 380px;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    font-weight: 100px;
+    background-color: rgb(176, 6, 153);
+    color: white;
+    border-radius: 20px;
+}
+button{
+    height: 30px;
+    width: 80px;
+    text-align: center;
+border-radius: 20px;
+background-color: #8b0434;
+color: white;
+}
+a{
+    color:white;
+}
+
+nav{
+    color:white;
+}

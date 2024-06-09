@@ -1,0 +1,66 @@
+h1 {
+  text-align: center;
+  font-family: "Sedan SC", serif;
+  font-size: 90px;
+  color: transparent;
+  letter-spacing: 4px;
+  text-decoration: underline white ;
+  background-image: url(https://media3.giphy.com/media/ZEO103yW71cX3Pf8Ql/giphy.gif);
+  background-repeat: no-repeat;
+  background-clip: text;
+  background-position: center;
+
+}
+
+h2 {
+  font-family: "Poetsen One", sans-serif;
+  color: #5055b5;
+}
+
+h3 {
+  font-family: "Poetsen One", sans-serif;
+  color: #2499b9;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+}
+img{
+height: 250px; 
+width: 380px;
+border-radius: 20px;
+}
+p {
+  font-size: 18px;
+}
+
+div {
+  margin-left: 120px;
+}
+.p1 {
+  margin-left: 170px;
+  font-size: 20px;
+}
+.p2{
+    font-size: 23px;
+}
+footer{
+    text-align: center;
+    font-weight: 100px;
+    background-color: rgb(14, 32, 164);
+    border-radius: 20px;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    text-align: center;
+border-radius: 20px;
+background-color: #0bdddd;
+color: white;
+}
+
+a{
+    color: white;
+}
